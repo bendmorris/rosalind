@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ~/Downloads/rosalind_$1.txt | python $1.py
